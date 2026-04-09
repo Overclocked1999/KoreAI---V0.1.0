@@ -1,2 +1,22 @@
-# KoreAI---V0.1.0
-KoreAI is a fully local, sandboxed AI assistant built for privacy, control, and extensibility. It runs entirely on your machine with no cloud dependency, featuring a secure virtual file system for safe file operations, persistent memory, and a modular architecture designed for developers and advanced automation workflows.
+Overview
+
+Modern AI tools often rely on external APIs, limiting control and exposing data. KoreAI takes a different approach:
+
+Everything runs locally. Everything is under your control.
+
+With a built-in sandboxed file system, modular architecture, and persistent memory, KoreAI enables safe and flexible AI interaction without compromising system integrity.
+
+Fully Local Execution
+No internet required (after setup)
+No external API calls
+Complete data privacy
+Sandboxed File System
+AI operates inside a controlled virtual environment
+Prevents access to critical system files
+Safe read/write operations
+Enables file-based workflows and automation
+Build autonomous workflows
+Developer-Focused
+Clean structure
+Easy debugging
+Fully customizable logic
